@@ -46,12 +46,10 @@ I am a Front End Developer
 
 ### 🔥 My Stats :
 <div align="center>
-
   
 [![GitHub Streak align="center"](http://github-readme-streak-stats.herokuapp.com?user=hhd182&theme=dark&background=000000)](https://git.io/streak-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhd182&layout=compact&theme=vision-friendly-dark)](https://github.com/anurag...me-stats)
-
 </div>
 
 
