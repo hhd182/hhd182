@@ -45,11 +45,10 @@ I am a Full Stack Developer
 ---
 
 ### 🔥 My Stats :
-<div align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hhd182&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![GitHub Streak align="center"](http://github-readme-streak-stats.herokuapp.com?user=hhd182&theme=dark&background=000000)](https://git.io/streak-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhd182&layout=compact&theme=vision-friendly-dark)](https://github.com/anurag...me-stats)
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hhd182&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
