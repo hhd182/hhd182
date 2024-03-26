@@ -8,9 +8,6 @@
   hello everyone !!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 ---
 
 ### :woman_technologist: About Me :
@@ -22,6 +19,10 @@ I am a Front End Developer
 - ⚡ In my free ⚡ I solve problems on GeeksforGeeks and read tech articles.
 
 ---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/sYYuY5oV5oKuqUHZqJ/giphy.gif?cid=790b7611qf8v5neii9eeo0y7a47u4ws0p2nrw097xsd8rrvo&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
+</div>
 
 ### :ham🛠:
 <div>
