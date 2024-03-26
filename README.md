@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=hhd182&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 id="header" align="center">
-  hhd xin chaoo !!!
+  hello everyone !!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -48,3 +48,7 @@ I am a Full Stack Developer
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hhd182&theme=dark&background=000000)](https://git.io/streak-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhd182&layout=compact&theme=vision-friendly-dark)](https://github.com/anurag...me-stats)
+
+### 🔥 My Trophy :
+[![trophy](https://github-profile-trophy.vercel.app/?hhd182=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
