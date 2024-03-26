@@ -45,7 +45,7 @@ I am a Front End Developer
 ---
 
 ### 🔥 My Stats :
-<div align="center>
+<div align="center">
   
 [![GitHub Streak align="center"](http://github-readme-streak-stats.herokuapp.com?user=hhd182&theme=dark&background=000000)](https://git.io/streak-stats)
 <br/>
