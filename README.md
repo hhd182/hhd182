@@ -21,7 +21,7 @@ I am a Front End Developer
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/sYYuY5oV5oKuqUHZqJ/giphy.gif?cid=790b7611qf8v5neii9eeo0y7a47u4ws0p2nrw097xsd8rrvo&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/sYYuY5oV5oKuqUHZqJ/giphy.gif?cid=790b7611qf8v5neii9eeo0y7a47u4ws0p2nrw097xsd8rrvo&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="full" height="full"/>
 </div>
 
 ### :ham🛠:
