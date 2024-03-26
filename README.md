@@ -49,6 +49,6 @@ I am a Full Stack Developer
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhd182&layout=compact&theme=vision-friendly-dark)](https://github.com/anurag...me-stats)
 
-### 🔥 My Trophy :
-[![trophy](https://github-profile-trophy.vercel.app/?hhd182=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hhd182&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
